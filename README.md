@@ -2,3 +2,4 @@
 
 ## Colaboradores
 - Manuel David Guzman Chavez
+- Keivn Jesus Rivera Marcos
