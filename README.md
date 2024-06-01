@@ -1,2 +1,2 @@
 # Introducción al Desarrollo de Software Este es un proyecto para practicar Git y GitHub
-- Manuel David Guzman Chavez
+- Manuel David Guzman Chavez.
