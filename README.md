@@ -2,4 +2,5 @@
 
 ## Colaboradores
 - Manuel David Guzman Chavez
-- Keivn Jesus Rivera Marcos
+- Kevin Jesus Rivera Marcos
+- Jeanmarco Rosales Trinidad
